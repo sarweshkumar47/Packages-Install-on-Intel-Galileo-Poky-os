@@ -4,7 +4,7 @@
   package contains an heterogeneous set of I2C tools for the Linux kernel as well as an I2C library
 
 
-  i2c_tools_install.sh installs python-smbus package as well.
+i2c_tools_install.sh installs python-smbus package as well.
   
 #### python-smbus 
   Python wrapper (module) allows SMBus access through the I2C /dev interface on Linux hosts. But the
