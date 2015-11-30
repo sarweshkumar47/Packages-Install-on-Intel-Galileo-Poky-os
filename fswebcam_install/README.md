@@ -1,6 +1,6 @@
 # Fswebcam Install on Intel Galileo (Poky)
 
-##### fswebcam - Small and simple webcam software for *nix.
+##### Fswebcam - Small and simple webcam software for *nix.
 
 ###Installation
 
