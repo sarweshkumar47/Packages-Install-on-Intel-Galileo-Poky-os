@@ -8,11 +8,11 @@ NBench is a synthetic computing benchmark program developed in the mid-1990s by 
 ###Debian
 
 ```bash
-./nbench_tool_install_debian.sh
+ ./nbench_tool_install_debian.sh
 ```
       
 ###Poky
 
 ```bash
-./nbench_tool_install_poky.sh
+ ./nbench_tool_install_poky.sh
 ```
