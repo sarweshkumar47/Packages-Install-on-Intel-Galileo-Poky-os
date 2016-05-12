@@ -9,5 +9,5 @@ But Intel's officail Poky has no cron application/package
 Run the following command to install cron application (crontab) on Poky for Galileo
 
 ```bash
-./cron_install_galileo.sh
+ ./cron_install_galileo.sh
 ```
