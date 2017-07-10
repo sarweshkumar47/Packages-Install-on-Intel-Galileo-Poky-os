@@ -2,7 +2,7 @@
 
 Fswebcam - Small and simple webcam software for *nix.
 
-##Installation
+## Installation
 
 Run the following commands in terminal to install fswebcam on Poky for Galileo
 
