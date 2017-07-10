@@ -10,7 +10,7 @@ i2c_tools_install.sh installs python-smbus package as well.
   Python wrapper (module) allows SMBus access through the I2C /dev interface on Linux hosts. But the
   host kernel must have I2C support, I2C device interface support, and a bus adapter driver.
   
-##Installation
+## Installation
   
   Run the following commands in terminal to install i2c-tools on Poky for Galileo:
   
